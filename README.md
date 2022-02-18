@@ -1,7 +1,5 @@
-### Hi there 👋
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Itaru-furukawa&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Itaru-furukawa&theme=tokyonight&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itaru-furukawa&theme=tokyonight&langs_count=5)](https://github.com/anuraghazra/github-readme-stats" />
